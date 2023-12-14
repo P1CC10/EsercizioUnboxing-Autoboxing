@@ -60,7 +60,4 @@ public class Main {
     public static void stampaCharacter(Character character){
         System.out.println("il carattere è= "+ character);
     }
-
-
-
 }
